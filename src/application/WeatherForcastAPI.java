@@ -14,7 +14,7 @@ public class WeatherForcastAPI extends Application {
 			Parent root = FXMLLoader.load(getClass().getResource("MainScreen.fxml"));
 			Scene scene = new Scene(root);
 			
-			primaryStage.setTitle("Weather Forcasting");
+			primaryStage.setTitle("Weather Forecasting");
 			primaryStage.setScene(scene);
 			primaryStage.show();
 			
