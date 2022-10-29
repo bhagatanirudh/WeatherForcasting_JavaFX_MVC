@@ -1,0 +1,3 @@
+# WeatherForecasting Using JavaFX-MVC
+This is the latest version of my previous weather forecating project, In this I have seperated the user interface from the application logic. For which, I used FXML which is an XML-based language. Where XML stands for extensible markup language. JavaFX enables us to design with Model-View-Controller (MVC), through the use of FXML and Java. The "Model" consists of application-specific domain objects, the "View" consists of FXML, and the "Controller" is Java code that defines the GUI's behavior for interacting with the user. 
+All the features are same as previous application. This application also runs the same as previous one, in which we need to enter any city name for which we want the current weather forecasting details.
